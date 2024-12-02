@@ -38,6 +38,7 @@ In the future, I want to explore **Web3 technologies**. I’m fascinated by the 
 ---
 
 ## 📈 GitHub Stats
+*Since all my repositories are private there is not much to see here, stay tuned tho!!!*
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=x1nnas&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x1nnas&layout=compact&theme=tokyonight)  
 
