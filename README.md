@@ -36,8 +36,8 @@ One day, I aim to dive deep into the **Web3 ecosystem**, exploring how decentral
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jmsfbusiness&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsfbusiness&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=x1nnas&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x1nnas&layout=compact&theme=tokyonight)  
 
 ---
 
