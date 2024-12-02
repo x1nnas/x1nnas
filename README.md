@@ -1,10 +1,12 @@
-# 👋 Hello, I'm José Ferreira
+# 👋 Hello, I'm José Ferreira  
 
 🌟 Aspiring Web Developer | Curious Mind | Building One Line at a Time  
 
 Hi, I’m José! I’m currently learning the ins and outs of **HTML**, **CSS**, and **JavaScript**, and I’m fascinated by the endless possibilities of web development. Every day is an opportunity to learn something new, and I’m working hard to turn my ideas into fully functional and visually appealing websites.  
 
-I’m also someone who enjoys figuring things out, even when it means going down a rabbit hole of documentation or debugging. For me, it’s all about the journey as much as the destination.  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</div>
 
 ---
 
@@ -24,6 +26,10 @@ Right now, I’m building my foundation with:
 ## 🌱 My Learning Journey  
 I’m focused on improving my front-end skills by diving deeper into JavaScript and exploring how to build engaging user interfaces. I also believe in making the web accessible and enjoyable for everyone, which is why I’m paying close attention to **accessibility** and **best practices**.  
 
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Web Dev GIF">
+</div>
+
 🔮 **Looking Ahead**:  
 In the future, I want to explore **Web3 technologies**. I’m fascinated by the idea of building decentralized applications (dApps) and learning how blockchain technology can make the web more transparent and community-driven.  
 
@@ -33,15 +39,11 @@ In the future, I want to explore **Web3 technologies**. I’m fascinated by the 
 - **[Personal Portfolio](#)**: My personal space on the web to showcase my work (still in progress!).  
 - **[CSS Animations Gallery](#)**: A collection of fun, creative animations I’ve built while learning.  
 
+<div align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="400" alt="Building Projects GIF">
+</div>
+
 *More to come as I continue to learn and grow!*  
-
----
-
-## 📈 GitHub Stats
-*Since all my repositories are private there is not much to see here, stay tuned tho!!!*
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=x1nnas&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x1nnas&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -49,7 +51,7 @@ In the future, I want to explore **Web3 technologies**. I’m fascinated by the 
 - Build **three complete projects** by the end of the year.  
 - Learn **React.js** to take my front-end skills to the next level.  
 - Start contributing to beginner-friendly **open-source projects**.  
-- Explore the foundations of **Web3 and blockchain** technologies.
+- Explore the foundations of **Web3 and blockchain** technologies.  
 
 ---
 
@@ -61,3 +63,7 @@ I’d love to connect with fellow developers, learners, or anyone who’s curiou
 ---
 
 👀 Thanks for stopping by! If you’d like to collaborate or just share ideas, don’t hesitate to get in touch. Let’s create something awesome together! 🚀  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Goodbye GIF">
+</div>
