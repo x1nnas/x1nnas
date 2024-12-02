@@ -4,34 +4,34 @@
 
 Hi, I’m José! I’m currently learning the ins and outs of **HTML**, **CSS**, and **JavaScript**, and I’m fascinated by the endless possibilities of web development. Every day is an opportunity to learn something new, and I’m working hard to turn my ideas into fully functional and visually appealing websites.  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-</div>
-
 ---
 
 ## 🛠️ Skills & Tools  
 Right now, I’m building my foundation with:  
-- **Languages**:  
-  ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-- **Currently Exploring**:  
-  - Responsive design principles 🌐  
-  - Adding flair with CSS animations 🎨  
+<div style="display: flex; align-items: center;">
+  <ul>
+    <li><strong>Languages:</strong></li>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript</li>
+  </ul>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="150" style="margin-left: 20px;">
+</div>
+
+I’m also exploring responsive design and CSS animations to add flair to my projects.  
 
 ---
 
 ## 🌱 My Learning Journey  
-I’m focused on improving my front-end skills by diving deeper into JavaScript and exploring how to build engaging user interfaces. I also believe in making the web accessible and enjoyable for everyone, which is why I’m paying close attention to **accessibility** and **best practices**.  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Web Dev GIF">
-</div>
+I’m focused on improving my front-end skills by diving deeper into JavaScript and learning to create engaging user interfaces. I also believe in making the web accessible and enjoyable for everyone, so I’m paying close attention to **accessibility** and **best practices**.  
 
 🔮 **Looking Ahead**:  
-In the future, I want to explore **Web3 technologies**. I’m fascinated by the idea of building decentralized applications (dApps) and learning how blockchain technology can make the web more transparent and community-driven.  
+In the future, I want to explore **Web3 technologies** like blockchain and dApps to contribute to the decentralized web.  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Web Dev GIF" width="300">
+</div>
 
 ---
 
@@ -39,11 +39,11 @@ In the future, I want to explore **Web3 technologies**. I’m fascinated by the 
 - **[Personal Portfolio](#)**: My personal space on the web to showcase my work (still in progress!).  
 - **[CSS Animations Gallery](#)**: A collection of fun, creative animations I’ve built while learning.  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="400" alt="Building Projects GIF">
-</div>
-
 *More to come as I continue to learn and grow!*  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="Building Projects GIF" width="300">
+</div>
 
 ---
 
@@ -57,6 +57,7 @@ In the future, I want to explore **Web3 technologies**. I’m fascinated by the 
 
 ## 💌 Let’s Connect!  
 I’d love to connect with fellow developers, learners, or anyone who’s curious about tech and creativity. Feel free to reach out!  
+
 📧 Email: [jmsfbusiness@gmail.com](mailto:jmsfbusiness@gmail.com)  
 💼 LinkedIn: [José M.S. Ferreira](https://www.linkedin.com/in/jose-msferreira)  
 
@@ -65,5 +66,5 @@ I’d love to connect with fellow developers, learners, or anyone who’s curiou
 👀 Thanks for stopping by! If you’d like to collaborate or just share ideas, don’t hesitate to get in touch. Let’s create something awesome together! 🚀  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Goodbye GIF">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Goodbye GIF" width="200">
 </div>
