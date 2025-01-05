@@ -2,7 +2,7 @@
 
 🌟 Aspiring Web Developer | Curious Mind | Building One Line at a Time  
 
-Hi, I’m José! I’m currently learning the ins and outs of **HTML**, **CSS**, and **JavaScript**, and I’m fascinated by the endless possibilities of web development. Every day is an opportunity to learn something new, and I’m working hard to turn my ideas into fully functional and visually appealing websites.  
+Hi, I’m José! I’m currently learning the ins and outs of **HTML**, **CSS**, and **JavaScript**, and I’m fascinated by the endless possibilities of web development. Every day is an opportunity to learn something new, and I’m working hard to turn my ideas into fully functional and visually appealing websites and applications.  
 
 I’m also someone who enjoys figuring things out, even when it means going down a rabbit hole of documentation or debugging. For me, it’s all about the journey as much as the destination.  
 
