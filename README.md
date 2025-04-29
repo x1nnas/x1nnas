@@ -37,7 +37,7 @@ Once I’ve mastered React, I plan to expand my full-stack capabilities and revi
 ## 💡 Projects I’m Working On  
 - **[Personal Portfolio](#)**: My personal space on the web to showcase my work (still in progress!).  
 - **[CSS Animations Gallery](#)**: A collection of fun, creative animations I’ve built while learning.
-- **[Full-Stack App}(#)**: A web application using React, Express.js, Node.js, and PostgreSQL/NoSQL for dynamic functionality.
+- **[Full-Stack App](#)**: A web application using React, Express.js, Node.js, and PostgreSQL/NoSQL for dynamic functionality.
 
 *More to come as I continue to learn and grow!*  
 
@@ -57,9 +57,8 @@ Once I’ve mastered React, I plan to expand my full-stack capabilities and revi
 - Master **React.js** and its ecosystem (e.g., hooks, context, and routing).
 - Start contributing to beginner-friendly **open-source projects**.  
 - Explore the foundations of **Web3 and blockchain** technologies.
-- Build three polished React projects with **Express.js** back ends by the end of the year.
+- Build three polished React projects with **Express.js** back ends.
 - Enhance my database design skills with **NoSQL** and **PostgreSQL**.
-- 
 ---
 
 ## 💌 Let’s Connect!  
