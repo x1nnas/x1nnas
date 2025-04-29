@@ -1,37 +1,43 @@
 # 👋 Hello, I'm José Ferreira
 
-🌟 Aspiring Web Developer | Curious Mind | Building One Line at a Time  
+🌟 Web Developer | Lifelong Learner | Crafting Code One Line at a Time
 
-Hi, I’m José! I’m currently learning the ins and outs of **HTML**, **CSS**, and **JavaScript**, and I’m fascinated by the endless possibilities of web development. Every day is an opportunity to learn something new, and I’m working hard to turn my ideas into fully functional and visually appealing websites and applications.  
+Hi, I’m José! I’m passionate about building dynamic, user-friendly web applications using HTML, CSS, JavaScript, and React for the front end, and Node.js with Express.js for back-end development. I’ve also worked with databases like NoSQL and PostgreSQL, enabling me to create full-stack solutions. Currently, I’m diving deeper into React to master interactive UIs before branching out to other technologies.
 
-I’m also someone who enjoys figuring things out, even when it means going down a rabbit hole of documentation or debugging. For me, it’s all about the journey as much as the destination.  
+I thrive on turning ideas into reality, whether it’s designing a responsive interface, building a RESTful API, or debugging a complex issue. For me, coding is a blend of creativity and problem-solving.  
 
 ---
 
 ## 🛠️ Skills & Tools  
 Right now, I’m building my foundation with:  
-- **Languages**:  
+**Languages & Frameworks**:  
   ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
   ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
-- **Currently Exploring**:  
-  - Responsive design principles 🌐  
-  - Adding flair with CSS animations 🎨  
+- **Databases**:  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🌱 My Learning Journey  
-I’m focused on improving my front-end skills by diving deeper into JavaScript and exploring how to build engaging user interfaces. I also believe in making the web accessible and enjoyable for everyone, which is why I’m paying close attention to **accessibility** and **best practices**.  
+I’m sharpening my full-stack skills by focusing on React for front-end development, mastering component-based architecture and state management. On the back end, I’ve built APIs using Node.js and Express.js, integrating them with NoSQL and PostgreSQL databases for robust data management. My current priority is to deepen my React expertise before exploring new frameworks or technologies.
 
-🔮 **Looking Ahead**:  
-In the future, I want to explore **Web3 technologies**. I’m fascinated by the idea of building decentralized applications (dApps) and learning how blockchain technology can make the web more transparent and community-driven.  
+I’m dedicated to accessibility and best practices, ensuring the web is inclusive and user-friendly for everyone.
+
+🔮 Looking Ahead:
+Once I’ve mastered React, I plan to expand my full-stack capabilities and revisit my interest in Web3 technologies, such as decentralized applications (dApps) and blockchain. 
 
 ---
 
 ## 💡 Projects I’m Working On  
 - **[Personal Portfolio](#)**: My personal space on the web to showcase my work (still in progress!).  
-- **[CSS Animations Gallery](#)**: A collection of fun, creative animations I’ve built while learning.  
+- **[CSS Animations Gallery](#)**: A collection of fun, creative animations I’ve built while learning.
+- **[Full-Stack App}(#)**: A web application using React, Express.js, Node.js, and PostgreSQL/NoSQL for dynamic functionality.
 
 *More to come as I continue to learn and grow!*  
 
@@ -48,10 +54,12 @@ In the future, I want to explore **Web3 technologies**. I’m fascinated by the 
 
 ## 🎯 Goals I’m Chasing  
 - Build **three complete projects** by the end of the year.  
-- Learn **React.js** to take my front-end skills to the next level.  
+- Master **React.js** and its ecosystem (e.g., hooks, context, and routing).
 - Start contributing to beginner-friendly **open-source projects**.  
 - Explore the foundations of **Web3 and blockchain** technologies.
-
+- Build three polished React projects with **Express.js** back ends by the end of the year.
+- Enhance my database design skills with **NoSQL** and **PostgreSQL**.
+- 
 ---
 
 ## 💌 Let’s Connect!  
