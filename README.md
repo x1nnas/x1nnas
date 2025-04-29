@@ -29,7 +29,7 @@ I’m sharpening my full-stack skills by focusing on React for front-end develop
 
 I’m dedicated to accessibility and best practices, ensuring the web is inclusive and user-friendly for everyone.
 
-🔮 Looking Ahead:
+## 🔮 Looking Ahead:
 Once I’ve mastered React, I plan to expand my full-stack capabilities and revisit my interest in Web3 technologies, such as decentralized applications (dApps) and blockchain. 
 
 ---
