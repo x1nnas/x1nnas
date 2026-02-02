@@ -1,134 +1,149 @@
-👋 Hi, I’m José Ferreira
+<h1 align="center">Hi, I’m José Ferreira 👋</h1>
 
-🌿 Full-Stack Web Developer | Building Calm, Secure & Thoughtful Web Experiences
+<p align="center">
+  Full-Stack Web Developer • React • TypeScript • Node.js
+</p>
 
-I’m a full-stack web developer focused on building clean, secure, and user-centered applications. I mainly work with React + TypeScript on the frontend and Node.js + Express on the backend, with a strong emphasis on clarity, maintainability, and real-world problem solving.
+<p align="center">
+  I build clean, secure, and user-centered web applications
+</p>
 
-I care about why things are built the way they are — from API design and authentication flows to UX decisions and code structure. I enjoy shipping complete features, refining them, and learning through iteration.
+<br />
 
-🛠️ Skills & Tools
-Languages & Frameworks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+</p>
 
+---
 
+## 🚀 About Me
 
+I’m a **full-stack web developer** with a strong focus on clarity, maintainability, and real-world problem solving.
 
+I work mainly with **React + TypeScript** on the frontend and **Node.js + Express** on the backend, building applications that are secure, scalable, and easy to reason about.
 
+I enjoy understanding *why* things are built the way they are — from API architecture and authentication flows to UX decisions and code structure.
 
+---
 
+## 🧠 Current Focus
 
+- Completed the **first phase of an intensive full-stack bootcamp**
+- Now starting the **second phase**, focused on **Web3**
+- Building **smaller focused apps** to sharpen core skills
+- Finalizing my **personal portfolio website**
 
+---
 
+## 🛠️ Tech Stack
 
+**Frontend**
+- React
+- TypeScript
+- JavaScript
+- HTML & CSS
+- Mobile-first, accessible UI design
 
+**Backend**
+- Node.js
+- Express
+- REST APIs
+- JWT authentication
+- Backend testing (Jest & Supertest)
 
+**Databases**
+- MongoDB
+- PostgreSQL
 
-Databases
+**Tooling**
+- Git & GitHub
+- API testing
+- Project structuring & documentation
 
+---
 
+## 📦 Projects
 
+### 🧘 MindEase — *v1 Completed*
 
-Other Tools
+A mobile-first emotional wellness application built with a focus on **clarity, privacy, and simplicity**.
 
+**Features & concepts**
+- Secure authentication with JWT
+- Protected routes
+- RESTful backend architecture
+- Backend testing
+- Progressive Web App (PWA)
 
+MindEase will continue evolving, but **version 1 is complete and functional**, serving as my first full end-to-end product.
 
+---
 
+### 🔧 Practice Applications (Ongoing)
 
+I’m currently focusing on **smaller projects** to practice and refine:
 
-🌱 What I’m Currently Doing
+- Authentication flows
+- API integrations
+- Database modeling
+- UI/UX patterns
+- Application structure and state management
 
-I’ve completed the first part of an intensive full-stack bootcamp, where I focused heavily on:
+These projects help me iterate fast and improve intentionally.
 
-Secure authentication & authorization (JWT, protected routes)
+---
 
-REST API design and backend architecture
+### 🌐 Portfolio Website (In Progress)
 
-Writing clean, maintainable TypeScript
+My personal portfolio is currently under construction and will showcase:
 
-Backend testing with Jest & Supertest
+- Finished projects
+- Technical decisions
+- Development process
+- What I’ve learned along the way
 
-Building mobile-first, accessible UIs
+---
 
-I’m now starting the second phase of the bootcamp, diving into Web3 concepts and technologies, while continuing to strengthen my core full-stack foundations.
+## 📊 GitHub Stats
 
-💡 Projects
-MindEase (v1 completed)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=x1nnas&show_icons=true&theme=tokyonight" />
+</p>
 
-A mobile-first emotional wellness application built with a strong focus on clarity, privacy, and simplicity.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1nnas&layout=compact&theme=tokyonight" />
+</p>
 
-Tech stack:
+---
 
-React
+## 🎯 Goals
 
-Node.js & Express
+- Ship production-quality full-stack applications
+- Deepen expertise in **React + TypeScript**
+- Improve backend architecture and testing practices
+- Explore **Web3 development**
+- Build a strong public project portfolio
+- Secure a **junior / trainee full-stack developer role**
+- Contribute to open-source projects
 
-MongoDB
+---
 
-JWT authentication
+## 📫 Let’s Connect
 
-Backend testing
+<p>
+  📧 <strong>Email:</strong> <a href="mailto:jmsfbusiness@gmail.com">jmsfbusiness@gmail.com</a><br />
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jose-msferreira">José M.S. Ferreira</a>
+</p>
 
-Progressive Web App (PWA)
+---
 
-MindEase will continue to evolve with new features, but version 1 is complete and functional, serving as my first full end-to-end product.
-
-Practice Projects (Ongoing)
-
-I’m currently focusing on smaller, focused applications to sharpen specific skills such as:
-
-Authentication flows
-
-API integrations
-
-Database modeling
-
-UI/UX patterns
-
-State management and app structure
-
-These projects help me experiment, fail fast, and improve quickly.
-
-Personal Portfolio (Under Construction)
-
-I’m building a dedicated portfolio website to showcase:
-
-Finished projects
-
-My development process
-
-Technical decisions and learnings
-
-Once complete, it will serve as the main hub for my work.
-
-(Some repositories are private due to academic requirements, but more public work is coming soon.)
-
-📈 GitHub Stats
-
-
-
-
-🎯 Goals
-
-Ship production-quality full-stack applications
-
-Deepen expertise in React + TypeScript
-
-Improve backend architecture & testing practices
-
-Explore Web3 development
-
-Build a strong public project portfolio
-
-Land a junior / trainee full-stack developer role
-
-Start contributing to open-source
-
-💌 Let’s Connect
-
-I’m always open to connecting with other developers, learners, and teams building meaningful products.
-
-📧 Email: jmsfbusiness@gmail.com
-
-💼 LinkedIn: José M.S. Ferreira
-
-👀 Thanks for stopping by!
-If you’re interested in collaboration, feedback, or just talking tech — feel free to reach out 🚀
+<p align="center">
+  Thanks for stopping by 👀<br />
+  Always open to collaboration, feedback, or talking tech 🚀
+</p>
