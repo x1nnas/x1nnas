@@ -85,6 +85,21 @@ MindEase will continue evolving, but **version 1 is complete and functional**, s
 
 ---
 
+### 🪟 NoiseWindow — *v1 Completed*
+
+A Progressive Web App designed for shared living spaces to communicate **availability and quiet hours without interruption**.
+
+**Features & concepts**
+- Animated real-time status indicators (Lottie)
+- Automatic schedule-based availability updates
+- Installable Progressive Web App with offline support
+- Bilingual interface (English & Portuguese)
+- Admin panel with PIN-protected scheduling controls
+
+Built with **Next.js, TypeScript, Tailwind CSS, and Supabase**, focusing on responsive design, offline functionality, and clear visual communication.
+
+---
+
 ### 🔧 Practice Applications (Ongoing)
 
 I’m currently focusing on **smaller projects** to practice and refine:
