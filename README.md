@@ -1,3 +1,6 @@
+<p align="center">
+  Lisbon, Portugal 🇵🇹
+</p>
 <h1 align="center">Hi, I’m José Ferreira 👋</h1>
 
 <p align="center">
@@ -68,20 +71,36 @@ I enjoy understanding *why* things are built the way they are — from API archi
 
 ---
 
-## 📦 Projects
+## 🚀 Projects
 
 ### 🧘 MindEase — *v1 Completed*
 
-A mobile-first emotional wellness application built with a focus on **clarity, privacy, and simplicity**.
+A **full-stack Progressive Web Application (PWA)** designed as an emotional wellness companion.  
+MindEase allows users to **track their mood, write private journal entries, and interact with Serenity — an AI-powered chatbot** that provides supportive conversation.
+
+The application focuses on **privacy, calm user experience, and accessibility**, combining modern frontend architecture with a secure backend and AI integration.
 
 **Features & concepts**
-- Secure authentication with JWT
-- Protected routes
-- RESTful backend architecture
-- Backend testing
-- Progressive Web App (PWA)
 
-MindEase will continue evolving, but **version 1 is complete and functional**, serving as my first full end-to-end product.
+- Secure authentication with **JWT-based login system**
+- **Daily mood tracking** with visual history
+- **Private journaling system** with full CRUD operations
+- **AI-powered chatbot (Serenity)** using OpenAI for emotional support conversations
+- **Progressive Web App** with installability and offline capabilities
+- **Bilingual interface** (English + Portuguese 🇵🇹)
+- **Responsive, ambient UI** designed for a calm experience
+
+**Technical highlights**
+
+- Full **TypeScript implementation** across frontend and backend
+- **React + Vite frontend** with modern component architecture
+- **Node.js + Express REST API**
+- **MongoDB + Mongoose** for data modeling
+- **Rate limiting and AI usage limits** to prevent abuse and manage costs
+- **Production error monitoring with Sentry**
+- Secure password storage with **bcrypt**
+
+MindEase is my **first fully deployed end-to-end product**, built to practice real-world application architecture, authentication flows, API design, and AI integration.
 
 ---
 
