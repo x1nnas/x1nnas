@@ -11,10 +11,6 @@
 <br />
 
 <p align="center">
-  Lisbon, Portugal 🇵🇹
-</p>
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -27,6 +23,10 @@
 ---
 
 ## 🚀 About Me
+
+<p align="center">
+  Lisbon, Portugal 🇵🇹
+</p>
 
 I’m a **full-stack web developer** with a strong focus on clarity, maintainability, and real-world problem solving.
 
