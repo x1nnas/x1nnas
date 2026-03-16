@@ -1,6 +1,3 @@
-<p align="center">
-  Lisbon, Portugal 🇵🇹
-</p>
 <h1 align="center">Hi, I’m José Ferreira 👋</h1>
 
 <p align="center">
@@ -12,6 +9,10 @@
 </p>
 
 <br />
+
+<p align="center">
+  Lisbon, Portugal 🇵🇹
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
