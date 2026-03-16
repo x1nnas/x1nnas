@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I’m José Ferreira 👋</h1>
-<p align="center">
-  Lisbon, Portugal 🇵🇹
-</p>
 
 <p align="center">
   Full-Stack Web Developer • React • TypeScript • Node.js
@@ -26,8 +23,8 @@
 ---
 
 ## 🚀 About Me
-
-I’m a **full-stack web developer** with a strong focus on clarity, maintainability, and real-world problem solving.
+  
+I am a **full-stack web developer** with a strong focus on clarity, maintainability, and real-world problem solving.
 
 I work mainly with **React + TypeScript** on the frontend and **Node.js + Express** on the backend, building applications that are secure, scalable, and easy to reason about.
 
