@@ -116,6 +116,22 @@ Built with **Next.js, TypeScript, Tailwind CSS, and Supabase**, focusing on resp
 
 ---
 
+### ⏱️ Flow — Pomodoro Extension
+
+A **minimal, reliable Pomodoro timer** built as a Chrome extension, focused on deep work and zero friction.
+
+**Highlights**
+
+- Background-driven timer using **Manifest V3 service worker + chrome.alarms**
+- **Local-first persistence** (no backend required)
+- Keyboard-first UX for fast interaction
+- Daily stats, streak tracking, and 7-day progress view
+- Clean separation between UI, hooks, and runtime logic
+
+A small project focused on **reliability, simplicity, and intentional UX design**.
+
+---
+
 ### 🔧 Practice Applications (Ongoing)
 
 I’m currently focusing on **smaller projects** to practice and refine:
