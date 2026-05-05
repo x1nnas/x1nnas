@@ -36,7 +36,7 @@ I enjoy understanding *why* things are built the way they are — from API archi
 
 - Completed the **first phase of an intensive full-stack bootcamp**
 - Now in the **second phase**, focused on **Web3 development**
-- Currently also sharpening my skills with **AI tools and LLM integration** — building with Claude Code and Codex daily, and working towards embedding AI into my own products
+- Currently sharpening my skills with **AI tools and LLM integration** — building with Claude Code and Codex daily, and working towards embedding AI into my own products
 - Portfolio live at [josemsferreira.com](https://josemsferreira.com)
 
 ---
@@ -182,18 +182,6 @@ These projects help me iterate fast and improve intentionally.
 ### 🌐 Portfolio Website — *Completed*
 
 My personal portfolio is live at **[josemsferreira.com](https://josemsferreira.com)**, showcasing finished projects, technical decisions, and what I've learned along the way.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x1nnas&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1nnas&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
