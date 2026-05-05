@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m José Ferreira 👋</h1>
+<h1 align="center">Hi, I'm José Ferreira 👋</h1>
 
 <p align="center">
   Full-Stack Web Developer • React • TypeScript • Node.js
@@ -26,7 +26,7 @@
   
 I am a **full-stack web developer** with a strong focus on clarity, maintainability, and real-world problem solving.
 
-I work mainly with **React + TypeScript** on the frontend and **Node.js + Express** on the backend, building applications that are secure, scalable, and easy to reason about.
+I build full-stack web applications across the entire stack — from interactive, accessible frontends to REST APIs, database design, authentication systems, and deployment. My work spans different tech choices depending on what the project calls for, and I care as much about the decisions behind an architecture as I do about the code itself.
 
 I enjoy understanding *why* things are built the way they are — from API architecture and authentication flows to UX decisions and code structure.
 
@@ -35,9 +35,9 @@ I enjoy understanding *why* things are built the way they are — from API archi
 ## 🧠 Current Focus
 
 - Completed the **first phase of an intensive full-stack bootcamp**
-- Now starting the **second phase**, focused on **Web3**
-- Building **smaller focused apps** to sharpen core skills
-- Finalizing my **personal portfolio website**
+- Now in the **second phase**, focused on **Web3 development**
+- Currently also sharpening my skills with **AI tools and LLM integration** — building with Claude Code and Codex daily, and working towards embedding AI into my own products
+- Portfolio live at [josemsferreira.com](https://josemsferreira.com)
 
 ---
 
@@ -53,6 +53,7 @@ I enjoy understanding *why* things are built the way they are — from API archi
 **Backend**
 - Node.js
 - Express
+- Next.js (App Router, API routes, server actions)
 - REST APIs
 - JWT authentication
 - Backend testing (Jest & Supertest)
@@ -65,10 +66,42 @@ I enjoy understanding *why* things are built the way they are — from API archi
 - Git & GitHub
 - API testing
 - Project structuring & documentation
+- Claude Code
+- Codex
 
 ---
 
 ## 🚀 Projects
+
+### 🗺️ PitchBase — *v1 Completed*
+
+A **full-stack football pitch management platform** built for scouting teams. Staff can log, classify, and manage pitches and venue complexes across Portugal on an **interactive map** — with rich detail panels, photo galleries, and real-time CRUD operations.
+
+Built to replace spreadsheets in a real football scouting workflow.
+
+**Features & concepts**
+
+- **Mapbox GL JS** powered map with GeoJSON-native clustering — custom SVG markers per status, cluster zoom, flyTo animations, and satellite/streets layer toggle
+- **Draggable pin relocation** — staff can drag any marker to correct its position, persisted immediately via PATCH
+- **Three-state status workflow** per pitch: *Próprio* (owned), *Por visitar* (remotely scouted), *Visitado* (physically visited) — each with distinct map marker styling
+- Full **CRUD** for pitches and venue complexes, with address reverse-geocoding via Mapbox Geocoding API on pin drop
+- **Photo management** with client-side compression before upload (≤ 800px / ≤ 200KB), cover photo designation, and ordered gallery with lightbox
+- **Role-based access control** (Admin / Editor / Leitor) via Supabase Auth JWT custom claims
+- **Dual filter system** (status + pitch size) synced across the map and list drawer in real time
+- **Shareable public pitch pages** (`/pitches/[id]`) rendered server-side with Open Graph metadata
+- **Progressive Web App** — installable on iOS and Android
+- Dashboard with profile photo upload (crop-to-circle), stat cards, and pitch breakdown by status
+
+**Technical highlights**
+
+- **Next.js 14 App Router** with server-side data fetching at the route level — no loading flash on initial map render
+- **Full TypeScript** with return types derived via `ReturnType` inference — no manual type duplication
+- **Drizzle ORM + PostgreSQL** via Supabase; Zod schemas shared between client and server for consistent validation
+- **Mapbox marker lifecycle management** with explicit React root unmounting to prevent memory leaks; click handlers stored in refs to avoid stale-closure bugs
+- **GeoJSON-level filtering** — filter state feeds into a `useMemo` that populates the Mapbox source directly, keeping filtering O(n) at the data level
+- Tailwind CSS + shadcn/ui, React Hook Form, Supabase Storage
+
+---
 
 ### 🧘 MindEase — *v1 Completed*
 
@@ -134,7 +167,7 @@ A small project focused on **reliability, simplicity, and intentional UX design*
 
 ### 🔧 Practice Applications (Ongoing)
 
-I’m currently focusing on **smaller projects** to practice and refine:
+I'm currently focusing on **smaller projects** to practice and refine:
 
 - Authentication flows
 - API integrations
@@ -146,14 +179,9 @@ These projects help me iterate fast and improve intentionally.
 
 ---
 
-### 🌐 Portfolio Website (In Progress)
+### 🌐 Portfolio Website — *Completed*
 
-My personal portfolio is currently under construction and will showcase:
-
-- Finished projects
-- Technical decisions
-- Development process
-- What I’ve learned along the way
+My personal portfolio is live at **[josemsferreira.com](https://josemsferreira.com)**, showcasing finished projects, technical decisions, and what I've learned along the way.
 
 ---
 
@@ -172,20 +200,21 @@ My personal portfolio is currently under construction and will showcase:
 ## 🎯 Goals
 
 - Ship production-quality full-stack applications
-- Deepen expertise in **React + TypeScript**
+- Deepen expertise in **React + TypeScript** and **Next.js**
 - Improve backend architecture and testing practices
-- Explore **Web3 development**
-- Build a strong public project portfolio
+- **Integrate LLMs** into my own products and explore AI-powered application development
+- Get better at building with AI tools as part of my everyday workflow
 - Secure a **junior / trainee full-stack developer role**
 - Contribute to open-source projects
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 <p>
   📧 <strong>Email:</strong> <a href="mailto:jmsfbusiness@gmail.com">jmsfbusiness@gmail.com</a><br />
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jose-msferreira">José M.S. Ferreira</a>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jose-msferreira">José M.S. Ferreira</a><br />
+  🌐 <strong>Portfolio:</strong> <a href="https://josemsferreira.com">josemsferreira.com</a>
 </p>
 
 ---
